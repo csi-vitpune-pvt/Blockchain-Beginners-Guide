@@ -93,7 +93,7 @@ This phase builds the theoretical foundation every blockchain developer needs be
 **Advanced**
 - Research and write a short comparison of PoW vs. PoS security assumptions (cost of attack, energy use, decentralization trade-offs).
 
-## Course Links
+## Courses(Optional) 
 - Cyfrin Updraft — Blockchain Basics Course (free)
 - freeCodeCamp — Blockchain and Cryptocurrency Explained
 - Coursera — Bitcoin and Cryptocurrency Technologies (Princeton University)
